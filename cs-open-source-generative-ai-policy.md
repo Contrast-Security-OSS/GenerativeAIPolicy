@@ -14,12 +14,12 @@ Inappropriate use of generative AI may expose us to risks including (but not lim
 
 Proprietary and confidential information of \<ABC\> remains the sole property of \<ABC\>, regardless of whether the devices on which this information is stored are owned by \<ABC\>. Effective security is a team effort, and it is the responsibility of each of us to understand these guidelines and to conduct our activities accordingly.
 
-> \<ABC\> believes AI tools can be used to help our company and to help
-> our customers. As such, we will continue to work to make this
-> technology available to the \<ABC\> team but in a safe, secure and
-> compliant way. 
->
-> Our primary concerns include, but are not limited to:
+\<ABC\> believes AI tools can be used to help our company and to help
+our customers. As such, we will continue to work to make this
+technology available to the \<ABC\> team but in a safe, secure and
+compliant way. 
+
+Our primary concerns include, but are not limited to:
 
 -   creating IP and software where our ownership and IP rights cannot be
     successfully challenged at a later time;
@@ -32,9 +32,9 @@ Proprietary and confidential information of \<ABC\> remains the sole property of
 -   unauthorized or under-privileged users gaining access to privileged,
     sensitive, protected or other confidential data.
 
-> This policy outlines steps to prevent potential negative outcomes such
-> as these from being realized while still providing a practical way for
-> our team to embrace this new and powerful capability.
+This policy outlines steps to prevent potential negative outcomes such
+as these from being realized while still providing a practical way for
+our team to embrace this new and powerful capability.
 
 # Definitions
 
