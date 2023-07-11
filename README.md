@@ -7,14 +7,11 @@ Welcome to the official repository for the Generative AI Policy!
 
 ## Overview
 
+The primary aim of this project is to provide a comprehensible and adoptable policy to control the potential privacy and security risks in using Generative AI and LLMs within your organization. This open source policy serves as a starting point for CISOs, security professionals, compliance, and risk teams who are new to this domain, and those who have a need to quickly release a policy for their organizations. 
 
-## Key Focus
+The policy takes into account numerous things but focuses primarily on the following:
 
-The primary aim of this project is to provide a comprehensible and adoptable policy to control the potential privacy and security risks in using Generatice AI and LLMs within your organization. this open source policy serves as a starting point for CISOs, security professionals, compliance, and risk teams who are new to this domain, and those who have a need to quickly release a policy for their organizations. 
-
-The policy takes into account numerous things but the primary focuses were on the following:
-
-* Prevent the creation of Inellectual Property (IP) and software where ownership and IP rights cannot be successfully challenged at a later time;
+* Prevent the creation of Intellectual Property (IP) and software where ownership and IP rights cannot be successfully challenged at a later time;
 * Prevent the generation of or using AI-generated code that could contain malicious components;
 * Prevent employees from using public AI systems to learn from the company’s data or customers’ or other third parties’ proprietary, non-public data; and
 * Prevent unauthorized or under-privileged users gaining access to privileged, sensitive, protected or other confidential data.
