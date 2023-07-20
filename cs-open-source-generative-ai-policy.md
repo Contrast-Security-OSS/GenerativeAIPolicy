@@ -56,6 +56,12 @@ relationship and that has not gone through the procurement/approval
 process\*. The only data that should be shared in an unapproved AI tool
 is data that is publicly available.
 
+**must:** Items marked with a must are a requirement.  Non-compliance requires approved documentation of non-compliance through ${NON_COMPLIANCE_POLICY}
+
+**should:** Items marked with a should are a requirement.  Non-compliance requires written business justification that can be produced upon request.  This business justification is not required to be submitted through ${NON_COMPLIANCE_POLICY}
+
+**may:** Items marked with a may are explicitly permitted, even if they appear to violate another requirement. 
+
 # Scope
 
 This policy applies to employees, contractors, consultants, temporary personnel, and other individuals working for or on behalf of \<ABC\>. This includes the personnel of third parties doing work on behalf of \<ABC\> or utilizing computing resources owned or managed by \<ABC\> or performing work using a \<ABC\> and/or customer and/or third-party email address. \<ABC\> has a Vendor Code of Conduct and corresponding Information Security and Privacy Policy that must be acknowledged by all third parties with access to \<ABC\> systems or data.
@@ -99,7 +105,7 @@ All employees shall:
 
 -   Only use \<ABC\>-licensed, -provided or -built generative AI tools in accordance with any customer requirements in contracts entered into by \<ABC\>. 
 
--   Only log in to approved generative AI tools using their \<ABC\> email or credentials. 
+-   Must use official organization identity information for access to any LLM system. 
 
 -   Unapproved generative AI tool: Only ever input public information, which is any information, regardless of format, that has been disclosed, disseminated or made available to the general public. 
 
