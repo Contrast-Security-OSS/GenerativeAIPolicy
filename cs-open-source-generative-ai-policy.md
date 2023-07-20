@@ -105,7 +105,7 @@ All employees shall:
 
 -   Only use \<ABC\>-licensed, -provided or -built generative AI tools in accordance with any customer requirements in contracts entered into by \<ABC\>. 
 
--   Must use official organization identity information for access to any LLM system. 
+-   Must use official organization identity information for access to any Generative AI and/or LLM system. 
 
 -   Unapproved generative AI tool: Only ever input public information, which is any information, regardless of format, that has been disclosed, disseminated or made available to the general public. 
 
